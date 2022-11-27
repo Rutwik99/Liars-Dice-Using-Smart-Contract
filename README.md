@@ -1,1 +1,2 @@
-# Liars-Dice-Using-Smart-Contract
+# Liar's Dice Using Smart Contract on Ethereum Blockchain
+
